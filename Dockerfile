@@ -12,7 +12,7 @@ RUN \
   apt-get install -y nginx php-fpm php-cgi php-cli   && \
 #  apt-get install -y php-common php-mbstring php-xmlrpc php-soap php-xml php-intl php-curl libpq-dev  && \
   apt-get install -y net-tools unzip vim wget
-RUN apt-get install -y --no-install-recommends --no-install-suggests supervisor cron
+RUN apt-get install -y --no-install-recommends --no-install-suggests supervisor cron glances
 
 
 
