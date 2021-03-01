@@ -1,5 +1,5 @@
 <?php
-echo "Hi There, Im CI / CD Demo in Huaweicloud. <br \>";
+echo "Hi There, Im CI / CD Demo in Huaweicloud-2. <br \>";
 echo "==================================================== <br \><br \>";
 echo "HuaweiCloud <br \>";
 echo "You're accessing from IP Address: ".$_SERVER['REMOTE_ADDR'].'<br \>';
